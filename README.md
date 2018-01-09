@@ -20,7 +20,7 @@ When you pull the theme, navigate to your theme folder in your terminal and run 
 
 You are ready to go!
 
-## Instructions for setup:
+## Instructions for use:
 
 To compile sass run ```gulp``` from your theme folder. The gulp command will automatically watch for all other tasks like browsersync.
 
