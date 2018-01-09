@@ -1,0 +1,43 @@
+// Vertical rhythm settings
+// ------------------------------------------------
+$vertical-spacing-unit: 20px;
+$horizontal-spacing-unit: 10px;
+$heading-spacing-unit: .5em 0;
+
+// Grid settings applied for the bourbon neat library
+// ------------------------------------------------
+$column: 70px;
+$gutter: 30px;
+$grid-columns: 12;
+$max-width: 1200px;
+
+// Colour palette
+// ------------------------------------------------
+$white: #fff;
+$black: #000;
+
+$primary-color: #2d043b;
+$secondary-color: #c49a6c;
+
+$background-color: #ccc;
+$border-color: #ccc;
+
+// Main Typographic Heading sizes
+// ------------------------------------------------
+$base-font-size: 16px;
+$heading-one: 28px;
+$heading-two: 24px;
+$heading-three: 22px;
+$heading-four: 20px;
+$heading-five: 18px;
+$heading-six: 16px;
+
+$base-font: 'Open Sans', sans-serif;
+$header-font: 'Ubuntu Condensed', sans-serif;
+
+// Common breakpoints
+// ------------------------------------------------
+
+$small: (480px / $base-font-size) * 1rem;
+$medium: (770px / $base-font-size) * 1rem;
+$large: (1200px / $base-font-size) * 1rem;
